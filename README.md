@@ -1,6 +1,8 @@
 # firstweb
 My website 2020
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3b11d5d7-93f4-40a8-a0a2-fe1d3c3f96f5/deploy-status)](https://app.netlify.com/sites/dreamy-wing-479b77/deploys)
+
 ![alien](https://user-images.githubusercontent.com/59611820/93999103-f0760c00-fd84-11ea-96d0-dce59c15fb20.jpg)
 ![analytics](https://user-images.githubusercontent.com/59611820/93999111-f370fc80-fd84-11ea-9b9e-6cab6cfb22da.jpg)
 ![seo](https://user-images.githubusercontent.com/59611820/93999129-f835b080-fd84-11ea-8af3-1c6dae47db49.jpg)
