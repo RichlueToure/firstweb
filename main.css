@@ -40,6 +40,10 @@ header ul li{
 
 header ul li a:hover{
     color: rgb(95, 202, 238);
+    border: 3px solid white;
+    transition: 0.3s;
+    padding: 3px;
+    border-radius: 20px;
 }
 
 a{
@@ -54,6 +58,7 @@ h2{
 
 hgroup{
     margin-top: 15%;
+    color: white;
     
 }
 
@@ -134,12 +139,15 @@ p{
     text-align: justify;
     margin-left: 30pt;
     margin-right: 30pt;
+    color: white;
 }
 
 #my_skills h3{
    padding: 21px;
    text-align: left;
    text-transform: uppercase;
+   font-weight: lighter;
+   font-style: normal;
 }
 
 
@@ -207,4 +215,3 @@ p{
     footer p{
         text-align: center;
     }
-
